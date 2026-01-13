@@ -20,3 +20,5 @@ function addContact(item){
 
     return newContact
 }
+
+module.exports = {addContact, contact}
